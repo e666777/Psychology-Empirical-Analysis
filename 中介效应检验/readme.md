@@ -1,7 +1,7 @@
 # 原理
 ## 定义：如果自变量通过影响变量M来影响因变量Y，则称变量M为中介变量（mediator/mediating variable）
 ## 图示：
-### ![image]https://github.com/e666777/Psychology-Empirical-Analysis/blob/main/%E4%B8%AD%E4%BB%8B%E6%95%88%E5%BA%94%E6%A3%80%E9%AA%8C/%E5%9B%BE%E7%A4%BA.png
+### ![image](https://github.com/e666777/Psychology-Empirical-Analysis/blob/main/%E4%B8%AD%E4%BB%8B%E6%95%88%E5%BA%94%E6%A3%80%E9%AA%8C/%E5%9B%BE%E7%A4%BA.png)
 	
 ## 结构方程模型和路径分析中对各中介效应的估计称为效应分解（effect decomposition),存在一个将总效应（total effect）分解为直接效应（direct effect)和中介效应的过程。而根据直接效应的大小，可以将中介效应分为两类：完全中介和部分中介。完全中介指的是自变量X对因变量Y的直接效应为0，但通过M影响Y的中介效应存在；部分中介则是直接效应和中介效应均存在的情况。
 ## 模型1(a)中X对Y的影响（X—>Y,即c）为总效应，一般要求总效应显著才会考虑中介效应。加入中介变量后的图1(b)中，X对Y的影响（X—>Y,即c'）为中介模型的直接效应，X对M的影响（X—>M，即a）和M对Y的影响（M—>Y,即b）是模型的间接效应路径,a*b即为模型的中介效应=值。c = c'+ab
@@ -29,7 +29,7 @@ Bootstrapping不需要分布假设所以避免了系数乘积检验违反分布�
 
 
 # 检验流程
-### ![image]https://github.com/e666777/Psychology-Empirical-Analysis/blob/main/%E4%B8%AD%E4%BB%8B%E6%95%88%E5%BA%94%E6%A3%80%E9%AA%8C/%E6%A3%80%E9%AA%8C%E6%B5%81%E7%A8%8B.png
+### ![image](https://github.com/e666777/Psychology-Empirical-Analysis/blob/main/%E4%B8%AD%E4%BB%8B%E6%95%88%E5%BA%94%E6%A3%80%E9%AA%8C/%E6%A3%80%E9%AA%8C%E6%B5%81%E7%A8%8B.png)
  1、检验总效应，总效应显著继续进行中介效应检验，不显著可能是掩蔽效应
  2、对中介效应所涉及的两个路径系数a和b进行依次检验，如果两个都显著，则间接效应显著，转到第四步；如果至少有一个不显著，进行第三步。
  3、用Bootstrap法直接检验H0 : ab = 0。如果显著，则间接效应显著，进行第四步；否则间接效应不显著，停止分析。
