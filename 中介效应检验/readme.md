@@ -1,7 +1,7 @@
 # 原理
 ## 定义：如果自变量通过影响变量M来影响因变量Y，则称变量M为中介变量（mediator/mediating variable）
 ## 图示：
-![image]https://github.com/e666777/Psychology-Empirical-Analysis/b中介效应检验/图示.png
+![image]https://github.com/e666777/Psychology-Empirical-Analysis/中介效应检验/图示.png
 	
 ## 结构方程模型和路径分析中对各中介效应的估计称为效应分解（effect decomposition),存在一个将总效应（total effect）分解为直接效应（direct effect)和中介效应的过程。而根据直接效应的大小，可以将中介效应分为两类：完全中介和部分中介。完全中介指的是自变量X对因变量Y的直接效应为0，但通过M影响Y的中介效应存在；部分中介则是直接效应和中介效应均存在的情况。
 ## 模型1(a)中X对Y的影响（X—>Y,即c）为总效应，一般要求总效应显著才会考虑中介效应。加入中介变量后的图1(b)中，X对Y的影响（X—>Y,即c'）为中介模型的直接效应，X对M的影响（X—>M，即a）和M对Y的影响（M—>Y,即b）是模型的间接效应路径,a*b即为模型的中介效应=值。c = c'+ab
