@@ -3,7 +3,7 @@
  因变量 Y 和自变量 X 的关系 ( 回归斜率的大小和方向 ) 随第三个变量 Z 的变化而变化，则称W 在 X 和 Y 之间起调节作用（Moderating Effect），此时称 W 为调节变量（Moderation variable)
  在调节效应模型中，Y=aX+bW+cXW
 ## 图示：
-![image](https://user-images.githubusercontent.com/108848416/213683377-55f03409-e73d-44a1-a086-a401a53bfd56.png)
+ ![image](https://github.com/e666777/Psychology-Empirical-Analysis/blob/main/%E8%B0%83%E8%8A%82%E6%95%88%E5%BA%94%E6%A3%80%E9%AA%8C/%E7%A4%BA%E6%84%8F%E5%9B%BE.png)
   
 # 调节效应检验：
   当 X 和 Z 都可以作为定距变量时，调节效应可以通过回归方程Y=aX+bW+cXW进行分析。如果回归系数 c 显著，就表示调节效应显著。
