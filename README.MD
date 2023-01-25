@@ -32,7 +32,7 @@
 ## Dplyr、tidyr、tidyverse
 数据清洗
 
-## 其他的包可以根据自己的需求在R语言官网或者github上搜索，例如混合效应模型常用包lme、文本分析包jieba等
+## 其他的包可以根据自己的需求在R语言官网或者github上搜索，例如混合效应模型常用包lme4、文本分析包jieba等
 
 
 # 好用的资料
@@ -43,5 +43,4 @@ https://rweekly.org/
 CSDN,Github
 
 
-# 重要的事情：遇到新的包去官网查看包以及函数的介绍，多使用R语言的help功能.
-
+# <font color=Red>Test</font> 多使用help函数
