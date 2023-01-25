@@ -43,4 +43,4 @@ https://rweekly.org/
 CSDN,Github
 
 
-# <font color=Blue> 多使用help函数 </font> 
+# $\color{#FF0000}{多使用help函数}$   
