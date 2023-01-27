@@ -55,4 +55,4 @@ level2：​​$β_{0j}=γ_{00}+μ_{0j}$​​ ; ​$β_{1j}=γ_{10}+μ_{1j}$​
 <a href="https://mp.weixin.qq.com/s/hMsf0_2TzhtDuRFKR6aBkg">多层线性模型：原理、关键议题与R语言实现 (qq.com)</a>
 
 语法：
-![image](https://github.com/e666777/Psychology-Empirical-Analysis/blob/main/%E7%BA%BF%E6%80%A7%E6%B7%B7%E5%90%88%E6%A8%A1%E5%9E%8Blinear%20mixed%20model(LMM%EF%BC%89/%E8%AF%AD%E6%B3%95.png)
+![image](%E8%AF%AD%E6%B3%95.png)
